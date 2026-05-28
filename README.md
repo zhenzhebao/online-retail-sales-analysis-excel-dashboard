@@ -34,7 +34,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
   Key Insight:
   
-  Revenue increased significantly from August to Novermber.
+  Revenue increased significantly from August to November.
 
   <img width="70%" alt="Monthly Revenue Trend" src="https://github.com/user-attachments/assets/6ad66990-fae5-4731-8696-b083ef255c03" />
 
@@ -50,7 +50,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
  	Key Insight:
 
- 	The United Kingdom generated the highest overall revenue amoung all European countries.
+ 	The United Kingdom generated the highest overall revenue among all European countries.
   
   <img width="5857" height="2342" alt="Sales by Country" src="https://github.com/user-attachments/assets/b35f6e74-bb6d-434f-9477-275f037377dd"/>
 
