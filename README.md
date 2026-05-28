@@ -1,6 +1,6 @@
 # Online Retail Sales Analysis Excel Dashboard
 ## Introduction
-This project uses Microsoft Excel to analyze online retail transaction data and build an interactive business dashboard for sales reporting and performance analysis. The dashboard provides insights into revenue trends, customer behavior, product performance, and geographic sales distribution through pivot tables, charts, KPI metrics, and interactive slicers.
+This project uses Microsoft Excel to analyze online retail transaction data and build an interactive business dashboard for sales reporting and performance analysis. The dashboard provides insights into revenue trends,product performance, and geographic sales distribution through pivot tables, charts, KPI metrics, and interactive slicers.
 
 The original dataset contains transactional retail sales data including invoices, customers, products, quantities, price, and country information.
 
@@ -26,8 +26,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 -	TEXT()
 
 ## Dashboard Overview
-<img width="831" height="699" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/fb59f806-e5d7-4906-a907-2272530e078e" />
-
+<img width="1440" height="900" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/b2f2360e-b828-4e0d-b427-4c8fc16684dd" />
 
 ## Dashboard Features
 - Monthly Revenue Trend Analysis
@@ -37,11 +36,6 @@ https://archive.ics.uci.edu/dataset/352/online+retail
   Revenue increased significantly from August to November.
 
   <img width="70%" alt="Monthly Revenue Trend" src="https://github.com/user-attachments/assets/6ad66990-fae5-4731-8696-b083ef255c03" />
-
--	Top Customers by Revenue
-
-  <img width="70%" alt="Top Customers in Asia-Pacific" src="https://github.com/user-attachments/assets/0d473ed1-f804-40f3-bb23-bc569e6be56a"/>
-  <img width="70%" alt="Top Customers in Europe, Middle East   Africa" src="https://github.com/user-attachments/assets/ac0839cc-af76-4776-92f0-d9c7a3d5943c"/>
    
 -	Top Products by Revenue
   <img width="70%" alt="Top 10 Product by Revenue" src="https://github.com/user-attachments/assets/f0ea507c-9fb8-4e47-97d7-97e01be5b816"/>
