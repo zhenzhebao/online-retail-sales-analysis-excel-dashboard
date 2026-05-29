@@ -26,7 +26,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 -	TEXT()
 
 ## Dashboard Overview
-<img width="1440" height="900" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/b2f2360e-b828-4e0d-b427-4c8fc16684dd" />
+  <img width="1440" height="900" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/b2f2360e-b828-4e0d-b427-4c8fc16684dd" />
 
 ## Dashboard Features
 - Monthly Revenue Trend Analysis
@@ -38,7 +38,8 @@ https://archive.ics.uci.edu/dataset/352/online+retail
   <img width="70%" alt="Monthly Revenue Trend" src="https://github.com/user-attachments/assets/6ad66990-fae5-4731-8696-b083ef255c03" />
    
 -	Top Products by Revenue
-  <img width="70%" alt="Top 10 Product by Revenue" src="https://github.com/user-attachments/assets/f0ea507c-9fb8-4e47-97d7-97e01be5b816"/>
+  
+    <img width="70%" alt="Top 10 Product by Revenue" src="https://github.com/user-attachments/assets/f0ea507c-9fb8-4e47-97d7-97e01be5b816"/>
 
 -	Geographic Sales Analysis
 
