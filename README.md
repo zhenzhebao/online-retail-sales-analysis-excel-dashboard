@@ -1,6 +1,6 @@
 # Online Retail Sales Analysis Excel Dashboard
 ## Introduction
-This project uses Microsoft Excel to analyze online retail transaction data and build an interactive business dashboard for sales reporting and performance analysis. The dashboard provides insights into revenue trends,product performance, and geographic sales distribution through pivot tables, charts, KPI metrics, and interactive slicers.
+This project uses Microsoft Excel to analyze online retail transaction data and build an interactive business dashboard for sales reporting and performance analysis. The dashboard provides insights into revenue trends,product performance, and geographic sales distribution through various KPI metrics and charts.
 
 The original dataset contains transactional retail sales data including invoices, customers, products, quantities, price, and country information.
 
@@ -25,19 +25,13 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
   Key Insight:
   
-  Revenue increased significantly from August to November.
+  Throughout the entire period, total revenue shows a gradual upward trend. Revenue increased significantly from August to November and   the highest sales recorded in November 2011.
 
-  <img width="70%" alt="Monthly Revenue Trend" src="https://github.com/user-attachments/assets/6ad66990-fae5-4731-8696-b083ef255c03" />
+  <img width="70%" alt="Screenshot 2026-06-28 at 20 34 15" src="https://github.com/user-attachments/assets/5c2ea059-d88c-4063-a3cc-5d7ae61e1c0f" />
+
    
 -	Top Products by Revenue
   
-    <img width="70%" alt="Top 10 Product by Revenue" src="https://github.com/user-attachments/assets/f0ea507c-9fb8-4e47-97d7-97e01be5b816"/>
-
--	Geographic Sales Analysis
-
- 	Key Insight:
-
- 	The United Kingdom generated the highest overall revenue among all European countries.
+  Paper Craft, Little Birdie was the best-selling product in terms of both units sold and total sales value.
   
-  <img width="5857" height="2342" alt="Sales by Country" src="https://github.com/user-attachments/assets/b35f6e74-bb6d-434f-9477-275f037377dd"/>
-
+  <img width="70%" alt="Screenshot 2026-06-28 at 20 38 00" src="https://github.com/user-attachments/assets/14383955-8a0b-43e7-a713-c7dda0c8f76e" />
