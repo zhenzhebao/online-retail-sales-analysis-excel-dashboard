@@ -7,27 +7,20 @@ The original dataset contains transactional retail sales data including invoices
 Dataset Source:
 https://archive.ics.uci.edu/dataset/352/online+retail
 
-## Tools and Skills
+## Skills
 
-### Microsoft Excel
-
--	Data Cleaning
--	Conditional Formatting
--	Pivot Tables
--	Pivot Charts
--	Dashboard Design
--	Interactive Slicers
-
-### Excel Functions
-
-- Nested IF Statements
-- YEAR()
--	MONTH()
--	TEXT()
+* Microsoft Excel
+* Power Query
+* PivotTables & PivotCharts
+* VLOOKUP
+* Conditional Formatting
+* Data Cleaning
+* Data Aggregation
+* Dashboard Development
 
 ## Dashboard Overview
-  <img width="1440" height="900" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/b2f2360e-b828-4e0d-b427-4c8fc16684dd" />
-
+  <img width="542" height="716" alt="Screenshot 2026-06-28 at 20 18 22" src="https://github.com/user-attachments/assets/fa4b6b8b-fe0f-48b0-b7cb-2521bf996ac4" />
+  
 ## Dashboard Features
 - Monthly Revenue Trend Analysis
 
