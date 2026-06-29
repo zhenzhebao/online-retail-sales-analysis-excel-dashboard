@@ -29,3 +29,9 @@ Dataset Source: https://archive.ics.uci.edu/dataset/352/online+retail
  
 ## Key Insight
 
+- Although the business operates across 36 regions, Europe accounts for the vast majority of total sales.
+
+- Sales performance showed an overall upward trend throughout the analysis period. November 2011 recorded the highest number of orders, the greatest number of units sold, and the highest total sales.
+
+- Paper Craft Little Birdie was the best-selling product by both total revenue and units sold.
+
