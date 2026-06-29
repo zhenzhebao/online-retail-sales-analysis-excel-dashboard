@@ -1,11 +1,11 @@
 # Online Retail Sales Analysis Excel Dashboard
 ## Introduction
-This project uses Microsoft Excel to analyze online retail transaction data and build an interactive business dashboard for sales reporting and performance analysis. The dashboard provides insights into revenue trends,product performance, and geographic sales distribution through various KPI metrics and charts.
 
-The original dataset contains transactional retail sales data including invoices, customers, products, quantities, price, and country information.
+This project explores the factors driving online retail sales by cleaning and summarizing transactional sales data, and then presenting the findings through an executive dashboard featuring key performance indicators (KPIs) and visualizations.
 
-Dataset Source:
-https://archive.ics.uci.edu/dataset/352/online+retail
+The dataset contains transactional retail sales data, including invoices, customers, products, quantities, prices, and country information.
+
+Dataset Source: https://archive.ics.uci.edu/dataset/352/online+retail
 
 ## Skills
 
