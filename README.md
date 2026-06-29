@@ -24,8 +24,9 @@ Dataset Source: https://archive.ics.uci.edu/dataset/352/online+retail
 
 
 ## Dashboard Overview
-  <img width="542" height="716" alt="Screenshot 2026-06-28 at 20 18 22" src="https://github.com/user-attachments/assets/fa4b6b8b-fe0f-48b0-b7cb-2521bf996ac4" />
-  
+
+  <img width="1414" height="685" alt="Screenshot 2026-06-29 at 07 32 19" src="https://github.com/user-attachments/assets/2524bab6-eacd-4658-987b-846f8a21ab67" />
+ 
 ## Dashboard Features
 - Monthly Revenue Trend Analysis
 
