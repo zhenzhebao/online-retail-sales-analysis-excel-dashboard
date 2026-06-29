@@ -11,11 +11,17 @@ Dataset Source: https://archive.ics.uci.edu/dataset/352/online+retail
 
 * Microsoft Excel
 * Power Query
-* VLOOKUP
+* PivotTables & PivotCharts
+* Excel Tables
 * Conditional Formatting
+* Excel Functions (VLOOKUP,SUMIF, COUNTIF, COUNTA, UNIQUE,TEXT)
 * Data Cleaning
+* Data Transformation
 * Data Aggregation
+* Data Visualization
 * Dashboard Development
+
+
 
 ## Dashboard Overview
   <img width="542" height="716" alt="Screenshot 2026-06-28 at 20 18 22" src="https://github.com/user-attachments/assets/fa4b6b8b-fe0f-48b0-b7cb-2521bf996ac4" />
