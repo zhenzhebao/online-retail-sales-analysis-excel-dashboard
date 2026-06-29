@@ -11,7 +11,6 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 * Microsoft Excel
 * Power Query
-* PivotTables & PivotCharts
 * VLOOKUP
 * Conditional Formatting
 * Data Cleaning
