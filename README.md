@@ -25,7 +25,8 @@ Dataset Source: https://archive.ics.uci.edu/dataset/352/online+retail
 
 ## Dashboard Overview
 
-  <img width="1414" height="685" alt="Screenshot 2026-06-29 at 07 32 19" src="https://github.com/user-attachments/assets/2524bab6-eacd-4658-987b-846f8a21ab67" />
+  <img width="1375" height="687" alt="Screenshot 2026-08-18 at 07 28 53" src="https://github.com/user-attachments/assets/e135a822-ce71-4d9e-90a6-b124439c7ee5" />
+
  
 ## Key Insight
 
